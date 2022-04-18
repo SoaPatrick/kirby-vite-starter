@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title><?= $page->isHomePage() ? $site->title() : $page->title() . ' |  ' .$site->title(); ?></title>
+  <title><?= $page->isHomePage() ? $site->title() : $page->title() . ' | ' .$site->title(); ?></title>
   <?= vite()->client() ?>
   <?= vite()->css() ?>
 </head>
