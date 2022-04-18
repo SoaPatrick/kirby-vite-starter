@@ -1,0 +1,11 @@
+# Ignore artifacts:
+kirby
+public
+site/plugins
+storage
+vendor
+*.yml
+*.lock
+*.md
+*.php
+*.htaccess
