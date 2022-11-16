@@ -4,7 +4,7 @@
   "type": "project",
   "license": "MIT",
   "require": {
-    "getkirby/cms": "^3.6.4",
-    "arnoson/kirby-vite": "^2.2"
+    "getkirby/cms": "^3.8.0",
+    "arnoson/kirby-vite": "^3.0"
   }
 }
